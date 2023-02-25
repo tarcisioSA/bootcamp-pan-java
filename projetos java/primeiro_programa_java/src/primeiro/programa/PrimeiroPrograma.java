@@ -3,23 +3,18 @@ package primeiro.programa;
 import primeiro.programa.model.Gato;
 
 public class PrimeiroPrograma {
-	
-	Gato gato = new Gato();
-	
-	Livros livros = new Livros();
-	System.out.println(gato);
 
-	/*public static void main(String[] args) {
-		int a = 2;
-		int b = 3;
-		 System.out.println("A soma é " + (a + b));
+	public static void main(String[] args) {
+		Livros livros = new Livros();
+		Gato gato = new Gato();
+		
+		System.out.println(gato);
+		System.out.println(livros);
 
-	}*/
+	}
 
 }
-
 class Livros{
 	private String nome;
 	private String npag;
-
 }
