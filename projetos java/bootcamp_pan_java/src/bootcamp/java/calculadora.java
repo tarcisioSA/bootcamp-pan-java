@@ -1,4 +1,4 @@
-package bootcamp.java.calculadora;
+package bootcamp.java;
 
 import java.util.Scanner;
 

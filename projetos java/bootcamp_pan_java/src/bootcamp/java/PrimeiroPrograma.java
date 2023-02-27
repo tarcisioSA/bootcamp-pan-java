@@ -1,7 +1,5 @@
 package bootcamp.java;
 
-import bootcamp.java.model.Gato;
-
 public class PrimeiroPrograma {
 
 	public static void main(String[] args) {

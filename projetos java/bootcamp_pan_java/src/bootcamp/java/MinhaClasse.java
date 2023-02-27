@@ -1,4 +1,4 @@
-package bootcamp.java.MinhaClasse;
+package bootcamp.java;
 
 public class MinhaClasse{
 

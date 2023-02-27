@@ -1,4 +1,4 @@
-package bootcamp.java.BoletimEtudantil;
+package bootcamp.java;
 
 
 
