@@ -1,6 +1,6 @@
-package primeiro.programa;
+package bootcamp.java;
 
-import primeiro.programa.model.Gato;
+import bootcamp.java.model.Gato;
 
 public class PrimeiroPrograma {
 

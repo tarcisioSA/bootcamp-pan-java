@@ -1,4 +1,4 @@
-package primeiro.programa.model;
+package bootcamp.java.model;
 
 import java.util.Objects;
 
