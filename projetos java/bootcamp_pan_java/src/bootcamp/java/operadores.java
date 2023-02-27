@@ -3,15 +3,19 @@ package bootcamp.java;
 public class operadores {
 
     public static void main(String[] args) {
-        int numero = 5;
+       
+        boolean condicao1 = true;
+        boolean condicao2 = false;
 
-        numero = -numero;
+        if(condicao1 && condicao2){
+            System.out.println("As duas são verdadeiras");
+        }
 
-        System.out.println(numero);
+       if(condicao1 || condicao2){
+        System.out.println("Tem uma verdadeira");
+       }
 
-        numero = numero * -1;
 
-        System.out.println(numero);
     }
     
 }
