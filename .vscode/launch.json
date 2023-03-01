@@ -4,10 +4,55 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
-
-
-
+        {
+            "type": "java",
+            "name": "OrdemIversa",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.repeticaoArrays.OrdemIversa",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
+            "name": "Fatrorial",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.repeticaoArrays.Fatrorial",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
+            "name": "Tabuada",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.repeticaoArrays.Tabuada",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
+            "name": "ParImpar",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.repeticaoArrays.ParImpar",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
+            "name": "MaiorMenor",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.repeticaoArrays.MaiorMenor",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
+            "name": "Nota",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.repeticaoArrays.Nota",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
+            "name": "NomeIdade",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.repeticaoArrays.NomeIdade",
+            "projectName": "bootcamp_pan_java"
+        },
         {
             "type": "java",
             "name": "Launch Current File",
