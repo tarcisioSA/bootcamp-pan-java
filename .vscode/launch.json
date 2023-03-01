@@ -1,0 +1,74 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+
+
+
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.java.AboutMe",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.java.BoletimEstudantil",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.java.MinhaClasse",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeiroPrograma",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.java.PrimeiroPrograma",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
+            "name": "Launch TiposVariaveis",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.java.TiposVariaveis",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
+            "name": "Launch UsuarioTv",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.java.UsuarioTv",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
+            "name": "Launch calculadora",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.java.calculadora",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
+            "name": "Launch operadores",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.java.operadores",
+            "projectName": "bootcamp_pan_java"
+        }
+    ]
+}

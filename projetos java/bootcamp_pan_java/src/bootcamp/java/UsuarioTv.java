@@ -27,4 +27,6 @@ public class UsuarioTv {
         System.out.println("Ligada? " + smartTv.ligada);
         
     }
+
+    public String formatarCep(long cep){}
 }
