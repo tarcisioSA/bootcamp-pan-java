@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.Praticas.Login",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
+            "name": "Matriz",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.repeticaoArrays.Matriz",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
+            "name": "Aleatorios",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.repeticaoArrays.Aleatorios",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
+            "name": "Consoantes",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.repeticaoArrays.Consoantes",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
             "name": "OrdemIversa",
             "request": "launch",
             "mainClass": "primeiro_programa_java/bootcamp.repeticaoArrays.OrdemIversa",
