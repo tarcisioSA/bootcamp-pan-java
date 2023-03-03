@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DadosPessoais",
+            "request": "launch",
+            "mainClass": "primeiro_programa_java/bootcamp.Praticas.DadosPessoais",
+            "projectName": "bootcamp_pan_java"
+        },
+        {
+            "type": "java",
             "name": "Login",
             "request": "launch",
             "mainClass": "primeiro_programa_java/bootcamp.Praticas.Login",
